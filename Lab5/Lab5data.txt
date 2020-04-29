@@ -1,0 +1,7 @@
+Steve Rogers 85 97.34 94 78 -1
+
+Bruce Banner 74.3 67 35 -1
+
+Charles Xavier 91.5 68.3 87.4 82 96.2 -1
+
+Natasha Romanov 85 87.2 96.25 78.9 -1
